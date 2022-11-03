@@ -11,13 +11,6 @@ python fragment_generator.py -m [model]
 ```
 
 ## Models
-Available models and parameters:
-- `StopToBottomL`: 
-    - $$\tilde{t}$$ mass 
-    - Cross section 
-    - $$c\tau$$
-- `SquarkToNeutralinoTo2LNu`: 
-    - $$\tilde{q}$$ mass
-    - $$\chi$$ mass
-    - $$c\tau$$
-
+Available models:
+- `StopToBottomL`
+- `SquarkToNeutralinoTo2LNu`
