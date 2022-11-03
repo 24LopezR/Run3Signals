@@ -8,7 +8,7 @@ if args.model == 'SquarkToNeutralinoTo2LNu':
 	# SquarkToNeutralinoTo2LNu Model
 
 	squark_masses = [1500]
-	chi_masses = [500]
+	chi_masses = [494]
 	ctau_values = [1000]
 	
 	f_in = open(args.model+"/SquarkToNeutralinoTo2LNu-fragment-template.py", "rt")
